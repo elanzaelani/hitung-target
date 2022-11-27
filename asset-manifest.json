@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hitung-target/static/css/main.3d7c0c6a.css",
-    "main.js": "/hitung-target/static/js/main.c5bfa23e.js",
+    "main.js": "/hitung-target/static/js/main.bd548d97.js",
     "index.html": "/hitung-target/index.html",
     "main.3d7c0c6a.css.map": "/hitung-target/static/css/main.3d7c0c6a.css.map",
-    "main.c5bfa23e.js.map": "/hitung-target/static/js/main.c5bfa23e.js.map"
+    "main.bd548d97.js.map": "/hitung-target/static/js/main.bd548d97.js.map"
   },
   "entrypoints": [
     "static/css/main.3d7c0c6a.css",
-    "static/js/main.c5bfa23e.js"
+    "static/js/main.bd548d97.js"
   ]
 }
